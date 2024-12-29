@@ -14,7 +14,7 @@
 - discord : sex_king
 - telegram : @pingpong_ball
 - skype : kangster2004
-- irc : [irc.libera.chat:6697](https://web.libera.chat/gamja) applepear
+- irc :  applepear on [irc.libera.chat:6697](https://web.libera.chat/gamja)
 - steam : [p0pl99](https://steamcommunity.com/id/p0pl99)
 - epic games : [usercruser](https://store.epicgames.com/ko/u/0f6e62242aab4d6ea05a70c93211defa)
 - bitview : [MungtangE](https://www.bitview.net/user/MungtangE)
