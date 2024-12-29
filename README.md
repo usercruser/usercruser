@@ -40,7 +40,6 @@ OS: Arch Linux x64
 Host: 82VG (LENOVO IdeaPad 1 15AMN7)
 Kernel: Linux 6.12.7-arch1-1
 Packages: (pacman), (flatpak-system), (flatpak-user), (snap)
-Shell: zsh 5.9
 Display: 1920x1080 @ 60 Hz in 16" [Built-in]
 DE: KDE Plasma 6.2.4
 WM: KWin (Wayland, X11)
