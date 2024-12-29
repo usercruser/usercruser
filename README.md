@@ -53,7 +53,6 @@ Disk: 229.53 GiB ext4
 
 ## what i love
 - [counter-strike 2](https://store.steampowered.com/app/730/CounterStrike_2/)
-- t(ㅇㄴㅇt)
 - [gnu/linux based operating system](https://namu.wiki/w/틀:Linux)
 - asus eee pc
 - [oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
