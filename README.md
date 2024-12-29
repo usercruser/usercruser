@@ -6,6 +6,8 @@
 - python, js(little)
 
 ## what i did
+- [check my portal site](https://ishowfeed.neocities.org/)
+- [check my typing practice program](https://github.com/usercruser/pytaja)
 - Direct discovery of vulnerabilities in "Digital 벗(Friend)," an educational tablet supported by the Seoul Metropolitan Office of Education. (Complete Jailbreak with iPad MDM Profile Bypass) October 24(KST), 2023
 
 ## my social
@@ -14,6 +16,9 @@
 - irc : [irc.libera.chat:6697](https://web.libera.chat/gamja) applepear
 - steam : [p0pl99](https://steamcommunity.com/id/p0pl99)
 - epic games : [usercruser](https://store.epicgames.com/ko/u/0f6e62242aab4d6ea05a70c93211defa)
+- bitview : [MungtangE](https://www.bitview.net/user/MungtangE)
+- blips.club : [usercruser](https://blips.club/usercruser)
+- spacehey : [allahakbar](https://spacehey.com/profile?id=2584121)
 
 ## my desktop/laptop quote
 ```
