@@ -20,7 +20,7 @@
 - bitview : [MungtangE](https://www.bitview.net/user/MungtangE)
 - blips.club : [usercruser](https://blips.club/usercruser)
 - spacehey : [allahakbar](https://spacehey.com/profile?id=2584121)
-- mastodon : [@siyoukang@planet.moe](https://planet.moe/@siyoukang)
+- mastodon : <a rel="me" href="https://planet.moe/@siyoukang">@siyoukang@planet.moe</a>
 
 ## my desktop/laptop quote
 ```
@@ -61,5 +61,3 @@ Disk: 229.53 GiB ext4
 - [msfconsole](https://docs.rapid7.com/metasploit/msf-overview/)
 - [nmap](https://nmap.org)
 - [pidgin](https://www.pidgin.im)
-
-<a rel="me" href="https://planet.moe/@siyoukang">Mastodon</a>
