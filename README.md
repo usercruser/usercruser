@@ -22,6 +22,8 @@
 - spacehey : [allahakbar](https://spacehey.com/profile?id=2584121)
 - mastodon : <a rel="me" href="https://planet.moe/@tootuser77">@tootuser77</a> on [planet.moe](https://planet.moe)
 
+<meta name="fediverse:creator" content="@tootuser77@planet.moe">
+
 ## my desktop/laptop quote
 ```
 desktop - winfetch
