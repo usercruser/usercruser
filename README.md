@@ -20,7 +20,7 @@
 - bitview : [MungtangE](https://www.bitview.net/user/MungtangE)
 - blips.club : [usercruser](https://blips.club/usercruser)
 - spacehey : [allahakbar](https://spacehey.com/profile?id=2584121)
-- mastodon : <a rel="me" href="https://planet.moe/@siyoukang">siyoukang@planet.moe</a>
+- mastodon : <a rel="me" href="https://planet.moe/@siyoukang">@siyoukang</a>
 
 ## my desktop/laptop quote
 ```
