@@ -12,7 +12,7 @@
 
 ## my social
 - discord : sex_king
-- telegram : @pingpong_ball
+- telegram : [@pingpong_ball](https://telegram.me/@pingpong_ball)
 - skype : kangster2004
 - irc :  applepear on [irc.libera.chat:6697](https://web.libera.chat/gamja)
 - steam : [p0pl99](https://steamcommunity.com/id/p0pl99)
