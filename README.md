@@ -53,6 +53,18 @@ Memory: 5.52 GiB
 Swap: 3.73 GiB
 Disk: 229.53 GiB ext4
 ```
+```
+laptop - neofetch
+OS: NoblePup32 24.04 i686 
+Host: ASUS EEE PC 901 x.x
+Kernel: 6.6.68 
+Shell: bash 5.2.21 
+Resolution: 1024x600 
+WM: JWM
+CPU: Intel Atom N270 (2) @ 1.600GHz 
+GPU: Intel Mobile 945GSE Express
+Memory: 2GB
+```
 
 ## what i love
 - [counter-strike 2](https://store.steampowered.com/app/730/CounterStrike_2/)
