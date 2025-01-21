@@ -75,4 +75,3 @@ Memory: 2GB
 - [msfconsole](https://docs.rapid7.com/metasploit/msf-overview/)
 - [nmap](https://nmap.org)
 - [pidgin](https://www.pidgin.im)
-- [t(ㅇㄴㅇt)](https://github.com/D0ey)
