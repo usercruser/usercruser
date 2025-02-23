@@ -24,48 +24,6 @@
 
 <meta name="fediverse:creator" content="@tootuser77@planet.moe">
 
-## my desktop/laptop quote
-```
-desktop - winfetch
-OS: Windows 11 Home [amd64]
-Host: LENOVO 90RC0188KA
-Kernel: 10.0.22631.0
-Motherboard: LENOVO 3716
-Packages: (scoop)
-Monitor: AVC27F165D 1920x1080 @ 165 Hz in 27" curved
-CPU: AMD Ryzen 7 5700X 8-Core Processor @ 4.38GHz
-GPU: NVIDIA GeForce RTX 3060
-Memory: 31.86 GiB
-Disk: TS1TMTE110S 1TB NVMe SSD
-```
-```
-laptop - fastfetch
-OS: Arch Linux x64
-Host: 82VG (LENOVO IdeaPad 1 15AMN7)
-Kernel: Linux 6.12.7-arch1-1
-Packages: (pacman), (flatpak-system), (flatpak-user), (snap)
-Display: 1920x1080 @ 60 Hz in 16" [Built-in]
-DE: KDE Plasma 6.2.4
-WM: KWin (Wayland, X11)
-CPU: AMD Ryzen 5 7520U 8-Core Processor @ 4.38GHz
-GPU: AMD Radeon 610M [Integrated]
-Memory: 5.52 GiB
-Swap: 3.73 GiB
-Disk: 229.53 GiB ext4
-```
-```
-laptop - neofetch
-OS: NoblePup32 24.04 i686 
-Host: ASUS EEE PC 901 x.x
-Kernel: 6.6.68 
-Shell: bash 5.2.21 
-Resolution: 1024x600 
-WM: JWM
-CPU: Intel Atom N270 (2) @ 1.600GHz 
-GPU: Intel Mobile 945GSE Express
-Memory: 2GB
-```
-
 ## what i love
 - [counter-strike 2](https://store.steampowered.com/app/730/CounterStrike_2/)
 - [gnu/linux based operating system](https://namu.wiki/w/틀:Linux)
