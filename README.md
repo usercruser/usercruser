@@ -35,5 +35,8 @@
 - [oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
 - [wayland](https://wayland.freedesktop.org)
 - [msfconsole](https://docs.rapid7.com/metasploit/msf-overview/)
+- [neovim](https://neovim.io)
 - [nmap](https://nmap.org)
 - [pidgin](https://www.pidgin.im)
+- [weechat](https://weechat.org)
+- [vscode](https://vscode.dev)
