@@ -11,6 +11,9 @@
 - [cs2 1800h](https://steamcommunity.com/id/p0pl99)
 - Direct discovery of vulnerabilities in "Digital 벗(Friend)," an educational tablet supported by the Seoul Metropolitan Office of Education. (Complete Jailbreak with iPad MDM Profile Bypass) October 24(KST), 2023
 
+## my desktop quote
+![image](https://github.com/user-attachments/assets/1871b2df-f8a6-4942-92d8-782c96a067a1)
+
 ## my social
 - discord : sex_king
 - telegram : [@pingpong_ball](https://telegram.me/@pingpong_ball)
