@@ -20,7 +20,7 @@
 
 ![Image](https://github.com/user-attachments/assets/6f90b638-7c9e-4a8f-8c49-d47802e2120a)
 
-**another laptop**
+**another laptop** ▾▾▾
 
 ## my social
 - discord : sex_king
