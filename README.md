@@ -12,11 +12,11 @@
 - Direct discovery of vulnerabilities in "Digital 벗(Friend)," an educational tablet supported by the Seoul Metropolitan Office of Education. (Complete Jailbreak with iPad MDM Profile Bypass) October 24(KST), 2023
 
 ## my desktop quote
-**desktop**
+**desktop** ▾▾▾
 
 ![image](https://github.com/user-attachments/assets/1871b2df-f8a6-4942-92d8-782c96a067a1)
 
-**laptop**
+**laptop** ▾▾▾
 
 ![Image](https://github.com/user-attachments/assets/6f90b638-7c9e-4a8f-8c49-d47802e2120a)
 
