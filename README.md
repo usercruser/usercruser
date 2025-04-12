@@ -3,7 +3,7 @@
 ## about me
 - 158cm/43kg
 - he/him
-- python, js(little)
+- python, c(little), c++(little), unity c#(little), js(little)
 
 ## what i did
 - [check my portal site](https://ishowfeed.neocities.org/)
