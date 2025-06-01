@@ -27,7 +27,7 @@
 - discord : sex_king
 - telegram : [@seoul_sexking](https://telegram.me/@seoul_sexking)
 - teamspeak : Mojave7815
-- skype : kangster2004
+- REST IN PEACE SKYPE ( 2003 ~ 2025 ) : kangster2004
 - irc :  applepear on [irc.libera.chat:6697](https://web.libera.chat/gamja)
 - steam : [p0pl99 on bottom](https://steamcommunity.com/id/p0pl99)
 - epic games : [usercruser](https://store.epicgames.com/ko/u/0f6e62242aab4d6ea05a70c93211defa)
