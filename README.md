@@ -27,12 +27,13 @@
 - discord : sex_king
 - telegram : [@seoul_sexking](https://telegram.me/@seoul_sexking)
 - teamspeak : Mojave7815
+- dcinside gallog : [GNUs_NotUnix](https://gallog.dcinside.com/public0006)
 - REST IN PEACE SKYPE ( 2003 ~ 2025 ) : kangster2004
 - irc ( FUCK YOU DRONEBL ) :  applepear on [irc.libera.chat:6697](https://web.libera.chat/gamja)
 - steam : [p0pl99 on bottom](https://steamcommunity.com/id/p0pl99)
 - epic games : [usercruser](https://store.epicgames.com/ko/u/0f6e62242aab4d6ea05a70c93211defa)
 - reddit : [CartoonistItchy6764](https://www.reddit.com/user/CartoonistItchy6764/)
-- wpd : [p0pl99](https://watchpeopledie.tv/@p0pl99)
+- watchpeopledie.tv : [p0pl99](https://watchpeopledie.tv/@p0pl99)
 - bitview : [MungtangE](https://www.bitview.net/user/MungtangE)
 - blips.club : [usercruser](https://blips.club/usercruser)
 - spacehey : [allahakbar](https://spacehey.com/profile?id=2584121)
