@@ -1,7 +1,7 @@
 # WELCOME
 
 ## about me
-- 158cm/43kg
+- 158cm/41kg
 - he/him
 - python, c(little bit(learning now))
 
