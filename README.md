@@ -1,3 +1,4 @@
+<p align="center">
 # WELCOME
 
 ## about me
@@ -54,3 +55,4 @@
 - [pidgin](https://www.pidgin.im)
 - [weechat](https://weechat.org)
 - [vscode](https://vscode.dev)
+</p>
