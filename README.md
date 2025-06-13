@@ -25,9 +25,7 @@
 **laptop** ▾▾▾
   
 ![Image](https://github.com/user-attachments/assets/6f90b638-7c9e-4a8f-8c49-d47802e2120a)
-  
-**another laptop** ▾▾▾
-  
+
 ## what i love
 - [counter-strike 2](https://store.steampowered.com/app/730/CounterStrike_2/)
 - [gnu/linux based operating system](https://namu.wiki/w/틀:Linux)
