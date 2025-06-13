@@ -1,5 +1,4 @@
 <h1 align="center">WELCOME TO MY PROFILE</h1>
-![image](https://github.com/user-attachments/assets/a9e4a9d4-6946-4966-af4a-824e9ce83384)
 
   ## about me
   - 158cm/41kg
