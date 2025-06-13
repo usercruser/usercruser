@@ -8,7 +8,7 @@
 - 📏❯ㆍ158cm/41kg
 - 🗣️❯ㆍhe/him
 - 🎂❯ㆍ02/11 (date_string, '%m/%d')
-- 🖥️❯ㆍLinux 6.12.33-1-lts (arch linux) | KDE Plasma 6(QT6), Wayland | 31.21 GiB RAM | AMD Ryzen 7 5700X (16) @ 4.66 GHz CPU | NVIDIA GeForce RTX 3060 Lite Hash Rate [Discrete] GPU
+- 🖥️❯ㆍLinux 6.12.33-1-lts (arch linux) | KDE Plasma 6(QT6), Wayland | 31.21 GiB RAM | AMD Ryzen 7 5700X (16) @ 4.66 GHz CPU | NVIDIA GeForce RTX 3060 26.21 GiB GPU
 
 <h1></h1>
 
