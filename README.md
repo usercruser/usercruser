@@ -1,7 +1,7 @@
 <h1 align="center">👋 WELCOME TO MY PROFILE 🫡</h1>
-<center><b>im so honored to have you here in this shabby place.</b></center>
+<b>im so honored to have you here in this shabby place.</b>
 
-### ㅣ=== · [ about me ] · ===ㅣ
+<p style="text-align: center; color: white;"><b>ㅣ=== · [ about me ] · ===ㅣ</b></p>
 - 📏❯ㆍ158cm/41kg
 - 🗣️❯ㆍhe/him
 
