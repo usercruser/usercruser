@@ -3,7 +3,7 @@
 ## about me
 - 158cm/41kg
 - he/him
-- ![image](https://github.com/user-attachments/assets/ba721f4b-1129-4d8e-b3ba-dc1734bd7970) ![image](https://github.com/user-attachments/assets/685ee5b4-ff5f-49a2-8c3a-609a321fcd69)
+- ![image](https://github.com/user-attachments/assets/ba721f4b-1129-4d8e-b3ba-dc1734bd7970 =150x150) ![image](https://github.com/user-attachments/assets/685ee5b4-ff5f-49a2-8c3a-609a321fcd69 =150x150)
 
 ## what i did
 - [check my portal site](https://ishowfeed.neocities.org/)
