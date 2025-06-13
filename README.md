@@ -1,6 +1,6 @@
 <h1 align="center">👋 ＨＥＬＬＯ  ＴＨＥＲＥ 🤗</h1>
 <h4 align="center">𝕚𝕞 𝕤𝕠 𝕙𝕠𝕟𝕠𝕣𝕖𝕕 𝕥𝕠 𝕙𝕒𝕧𝕖 𝕪𝕠𝕦 𝕙𝕖𝕣𝕖 𝕚𝕟 𝕥𝕙𝕚𝕤 𝕤𝕙𝕒𝕓𝕓𝕪 𝕡𝕝𝕒𝕔𝕖.</h4>
-<h5 align="center">『💬』<a href="https://discord.com/users/684801166034731045">my discord</a>  | 『🌐』<a href="https://ishowfeed.neocities.org">my portal</a>  | 『⌨️』<a href="https://github.com/usercruser/pytaja">my program</a></h5>
+<h5 align="center">『💬』<a href="https://discord.com/users/684801166034731045">my discord</a>  | 『🌐』<a href="https://ishowfeed.neocities.org">my portal</a>  | 『⌨️』<a href="https://github.com/usercruser/pytaja">my program</a><br><img src="https://usercruser.neocities.org/usercruser1.png"></h5>
 <h1></h1>
 
 
