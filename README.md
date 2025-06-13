@@ -1,4 +1,4 @@
-<h1 align="center">👋 WELCOME TO MY PROFILE 🫡</h1>
+<h1 align="center">👋 ＨＥＬＬＯ ＴＨＥＲＥ 🫡</h1>
 <h4 align="center">im so honored to have you here in this shabby place.</h4>
 <h5 align="center">💬❯ㆍ<a href="https://discord.com/users/684801166034731045">my discord</a> | 🌐❯ㆍ<a href="https://ishowfeed.neocities.org">my portal</a> | ⌨️❯ㆍ<a href="https://github.com/usercruser/pytaja">my program</a></h5>
 <h1></h1>
