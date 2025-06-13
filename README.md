@@ -1,6 +1,5 @@
-![image](https://github.com/user-attachments/assets/2bf714fc-aa34-4afe-bc5a-e4439da15946)![image](https://github.com/user-attachments/assets/6631eab6-fd76-457d-81dd-f611c19dd671)
-
 <h1 align="center">WELCOME TO MY PROFILE</h1>
+![image](https://github.com/user-attachments/assets/a9e4a9d4-6946-4966-af4a-824e9ce83384)
 
   ## about me
   - 158cm/41kg
@@ -8,13 +7,10 @@
   - <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="50" height="50" />, <img src="https://www.omar-ibrahim.com/images/raster/programming-language/clang.png" width="50" height="50" />
 
   ## my social
-  <a href="https://discord.com/users/684801166034731045"><img src="https://github.com/user-attachments/assets/a528f8d6-9dfb-42cf-8e5d-4ce06b1b94ba" width="15" height="15" /></a> <a href="https://telegram.me/@seoul_sexking"><img src="https://github.com/user-attachments/assets/ab94d07c-ff61-4fef-9695-f7823e0e05c0" width="15" height="15" /></a>
+  <a href="steamcommunity.com/id/p0pl99"><img src="https://github.com/user-attachments/assets/a9e4a9d4-6946-4966-af4a-824e9ce83384" width="15" height="15" /></a> <a href="https://discord.com/users/684801166034731045"><img src="https://github.com/user-attachments/assets/a528f8d6-9dfb-42cf-8e5d-4ce06b1b94ba" width="15" height="15" /></a> <a href="https://telegram.me/@seoul_sexking"><img src="https://github.com/user-attachments/assets/ab94d07c-ff61-4fef-9695-f7823e0e05c0" width="15" height="15" /></a> <a href="https://gallog.dcinside.com/public0006"><img src="https://github.com/user-attachments/assets/2bf714fc-aa34-4afe-bc5a-e4439da15946" width="15" height="15" /></a> <a href="gall.dcinside.com/softwaredev"><img src="https://github.com/user-attachments/assets/2bf714fc-aa34-4afe-bc5a-e4439da15946" width="15" height="15" /></a>(gallery)
+  
   - teamspeak : Mojave7815
-  - dcinside gallog : <a href="https://gallog.dcinside.com/public0006"><img src="https://github.com/user-attachments/assets/2bf714fc-aa34-4afe-bc5a-e4439da15946" width="15" height="15" /></a>
-  - dcinside gallery : [Software Engeneering](https://gall.dcinside.com/softwaredev)
-  - REST IN PEACE SKYPE ( 2003 ~ 2025 ) : kangster2004
   - irc ( FUCK YOU DRONEBL ) :  applepear on [irc.libera.chat:6697](https://web.libera.chat/gamja)
-  - steam : [p0pl99 on bottom](https://steamcommunity.com/id/p0pl99)
   - epic games : [usercruser](https://store.epicgames.com/ko/u/0f6e62242aab4d6ea05a70c93211defa)
   - reddit : [CartoonistItchy6764](https://www.reddit.com/user/CartoonistItchy6764/)
   - watchpeopledie.tv : [p0pl99](https://watchpeopledie.tv/@p0pl99)
