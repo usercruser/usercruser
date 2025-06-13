@@ -3,8 +3,7 @@
 ## about me
 - 158cm/41kg
 - he/him
-- ![image](https://www.omar-ibrahim.com/images/raster/programming-language/clang.png =150x150) ![image](https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png =150x150)
-- <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="50" height="50" /><img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="50" height="50" />
+- <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="50" height="50" /><img src="https://www.omar-ibrahim.com/images/raster/programming-language/clang.png" width="50" height="50" />
 
 
 ## what i did
