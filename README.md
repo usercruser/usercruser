@@ -6,8 +6,8 @@
   - <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="50" height="50" />, <img src="https://www.omar-ibrahim.com/images/raster/programming-language/clang.png" width="50" height="50" />
 
   ## my social
-  - <img src="https://github.com/user-attachments/assets/a528f8d6-9dfb-42cf-8e5d-4ce06b1b94ba" width="15" height="15" /> : sex_king
-  - telegram : [@seoul_sexking](https://telegram.me/@seoul_sexking)
+  - <a href="https://discord.com/users/684801166034731045"><img src="https://github.com/user-attachments/assets/a528f8d6-9dfb-42cf-8e5d-4ce06b1b94ba" width="15" height="15" /></a>
+  - <a href="https://telegram.me/@seoul_sexking"><img src="https://github.com/user-attachments/assets/ab94d07c-ff61-4fef-9695-f7823e0e05c0" width="15" height="15" /></a>
   - teamspeak : Mojave7815
   - dcinside gallog : [GNUs_NotUnix](https://gallog.dcinside.com/public0006)
   - dcinside gallery : [Software Engeneering](https://gall.dcinside.com/softwaredev)
