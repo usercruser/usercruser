@@ -10,7 +10,7 @@
 <h1></h1>
 
 ### 『👨‍💻』❯ㆍlanguages -----
-> <a href="https://webstore.iec.ch/en/publication/102886"><img src="https://www.omar-ibrahim.com/images/raster/programming-language/clang.png" width="50" height="50" /></a>(little bit), <a href="https://python.org"><img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="50" height="50" /></a>
+> <a href="https://webstore.iec.ch/en/publication/102886"><img src="https://www.omar-ibrahim.com/images/raster/programming-language/clang.png" width="50" height="50" /></a>(little bit)  <a href="https://python.org"><img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="50" height="50" /></a>
 
 <h1></h1>
 
