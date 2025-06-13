@@ -1,6 +1,4 @@
-<p align="center">
-  # WELCOME TO MY PROFILE
-  
+<h1 align="center">WELCOME TO MY PROFILE</h1>
   ## about me
   - 158cm/41kg
   - he/him
@@ -55,4 +53,3 @@
   - [pidgin](https://www.pidgin.im)
   - [weechat](https://weechat.org)
   - [vscode](https://vscode.dev)
-</p>
