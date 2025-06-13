@@ -1,11 +1,11 @@
 <h1 align="center">👋 WELCOME TO MY PROFILE 🫡</h1>
 <h4 align="center">im so honored to have you here in this shabby place.</h4>
 
-### ㅣ=== · [ about me ] · ===ㅣ
+### ㅣ=== · [ about me ] · ===ㅣ<hr>
 - 📏❯ㆍ158cm/41kg
 - 🗣️❯ㆍhe/him
 
-### ㅣ=== · [ languages ] · ===ㅣ
+### ㅣ=== · [ languages ] · ===ㅣ<hr>
 - <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="50" height="50" />, <img src="https://www.omar-ibrahim.com/images/raster/programming-language/clang.png" width="50" height="50" />
 
 ### ㅣ=== · [ social ] · ===ㅣ
