@@ -4,6 +4,24 @@
   - 158cm/41kg
   - he/him
   - <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="50" height="50" />, <img src="https://www.omar-ibrahim.com/images/raster/programming-language/clang.png" width="50" height="50" />
+
+  ## my social
+  - <img src="https://github.com/user-attachments/assets/a528f8d6-9dfb-42cf-8e5d-4ce06b1b94ba" width="15" height="15" /> : sex_king
+  - telegram : [@seoul_sexking](https://telegram.me/@seoul_sexking)
+  - teamspeak : Mojave7815
+  - dcinside gallog : [GNUs_NotUnix](https://gallog.dcinside.com/public0006)
+  - dcinside gallery : [Software Engeneering](https://gall.dcinside.com/softwaredev)
+  - REST IN PEACE SKYPE ( 2003 ~ 2025 ) : kangster2004
+  - irc ( FUCK YOU DRONEBL ) :  applepear on [irc.libera.chat:6697](https://web.libera.chat/gamja)
+  - steam : [p0pl99 on bottom](https://steamcommunity.com/id/p0pl99)
+  - epic games : [usercruser](https://store.epicgames.com/ko/u/0f6e62242aab4d6ea05a70c93211defa)
+  - reddit : [CartoonistItchy6764](https://www.reddit.com/user/CartoonistItchy6764/)
+  - watchpeopledie.tv : [p0pl99](https://watchpeopledie.tv/@p0pl99)
+  - bitview : [MungtangE](https://www.bitview.net/user/MungtangE)
+  - blips.club : [usercruser](https://blips.club/usercruser)
+  - spacehey : [allahakbar](https://spacehey.com/profile?id=2584121)
+  - mastodon : <a rel="me" href="https://planet.moe/@tootuser77">@tootuser77</a> on [planet.moe](https://planet.moe)
+     <meta name="fediverse:creator" content="@tootuser77@planet.moe">
   
   
   ## what i did
@@ -23,25 +41,6 @@
   ![Image](https://github.com/user-attachments/assets/6f90b638-7c9e-4a8f-8c49-d47802e2120a)
   
   **another laptop** ▾▾▾
-  
-  ## my social
-  - <img src="https://github.com/user-attachments/assets/a528f8d6-9dfb-42cf-8e5d-4ce06b1b94ba" width="15" height="15" /> : sex_king
-  - telegram : [@seoul_sexking](https://telegram.me/@seoul_sexking)
-  - teamspeak : Mojave7815
-  - dcinside gallog : [GNUs_NotUnix](https://gallog.dcinside.com/public0006)
-  - dcinside gallery : [Software Engeneering](https://gall.dcinside.com/softwaredev)
-  - REST IN PEACE SKYPE ( 2003 ~ 2025 ) : kangster2004
-  - irc ( FUCK YOU DRONEBL ) :  applepear on [irc.libera.chat:6697](https://web.libera.chat/gamja)
-  - steam : [p0pl99 on bottom](https://steamcommunity.com/id/p0pl99)
-  - epic games : [usercruser](https://store.epicgames.com/ko/u/0f6e62242aab4d6ea05a70c93211defa)
-  - reddit : [CartoonistItchy6764](https://www.reddit.com/user/CartoonistItchy6764/)
-  - watchpeopledie.tv : [p0pl99](https://watchpeopledie.tv/@p0pl99)
-  - bitview : [MungtangE](https://www.bitview.net/user/MungtangE)
-  - blips.club : [usercruser](https://blips.club/usercruser)
-  - spacehey : [allahakbar](https://spacehey.com/profile?id=2584121)
-  - mastodon : <a rel="me" href="https://planet.moe/@tootuser77">@tootuser77</a> on [planet.moe](https://planet.moe)
-  
-  <meta name="fediverse:creator" content="@tootuser77@planet.moe">
   
   ## what i love
   - [counter-strike 2](https://store.steampowered.com/app/730/CounterStrike_2/)
