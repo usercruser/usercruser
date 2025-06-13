@@ -25,7 +25,7 @@
   **another laptop** ▾▾▾
   
   ## my social
-  - <img src="https://pngimg.com/d/discord_PNG30.png" width="10" height="10" /> : sex_king
+  - <img src="https://github.com/user-attachments/assets/a528f8d6-9dfb-42cf-8e5d-4ce06b1b94ba" width="10" height="10" /> : sex_king
   - telegram : [@seoul_sexking](https://telegram.me/@seoul_sexking)
   - teamspeak : Mojave7815
   - dcinside gallog : [GNUs_NotUnix](https://gallog.dcinside.com/public0006)
