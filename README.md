@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/2bf714fc-aa34-4afe-bc5a-e4439da15946)![image](https://github.com/user-attachments/assets/6631eab6-fd76-457d-81dd-f611c19dd671)
+
 <h1 align="center">WELCOME TO MY PROFILE</h1>
 
   ## about me
@@ -8,7 +10,7 @@
   ## my social
   <a href="https://discord.com/users/684801166034731045"><img src="https://github.com/user-attachments/assets/a528f8d6-9dfb-42cf-8e5d-4ce06b1b94ba" width="15" height="15" /></a> <a href="https://telegram.me/@seoul_sexking"><img src="https://github.com/user-attachments/assets/ab94d07c-ff61-4fef-9695-f7823e0e05c0" width="15" height="15" /></a>
   - teamspeak : Mojave7815
-  - dcinside gallog : [GNUs_NotUnix](https://gallog.dcinside.com/public0006)
+  - dcinside gallog : <a href="https://gallog.dcinside.com/public0006"><img src="https://github.com/user-attachments/assets/2bf714fc-aa34-4afe-bc5a-e4439da15946" width="15" height="15" /></a>
   - dcinside gallery : [Software Engeneering](https://gall.dcinside.com/softwaredev)
   - REST IN PEACE SKYPE ( 2003 ~ 2025 ) : kangster2004
   - irc ( FUCK YOU DRONEBL ) :  applepear on [irc.libera.chat:6697](https://web.libera.chat/gamja)
