@@ -24,8 +24,6 @@
 <h1></h1>
 
 #### ㅣ=== · [ what i did ] · ===ㅣ
-- [check my portal site](https://ishowfeed.neocities.org/)
-- [check my typing practice program](https://github.com/usercruser/pytaja)
+- Direct discovery of vulnerabilities in "Digital 벗(Friend)," an educational tablet supported by the Seoul Metropolitan Office of Education. (Complete Jailbreak with iPad MDM Profile Bypass) October 24(KST), 2023
 - [cs2 1800h](https://steamcommunity.com/id/p0pl99)
 - [my archlinux wayland kde plasma6 rice](https://gall.dcinside.com/m/github/77657)
-- Direct discovery of vulnerabilities in "Digital 벗(Friend)," an educational tablet supported by the Seoul Metropolitan Office of Education. (Complete Jailbreak with iPad MDM Profile Bypass) October 24(KST), 2023
