@@ -1,5 +1,6 @@
 <p align="center">
-# WELCOME
+
+# WELCOME TO MY PROFILE
 
 ## about me
 - 158cm/41kg
