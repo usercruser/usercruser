@@ -13,7 +13,8 @@
 <h1></h1>
 
 ### 『👨‍💻』❯ㆍʟᴀɴɢᴜᴀɢᴇꜱ&ɪᴅᴇ
-> <a href="https://python.org"><img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="50" height="50" /></a>  <a href="https://webstore.iec.ch/en/publication/102886"><img src="https://www.omar-ibrahim.com/images/raster/programming-language/clang.png" width="50" height="50" /></a> | <a href="https://neovim.io"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" width="50" height="50"></a>  <a href="https://vscode.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50" /></a>  <a href="https://visualstudio.microsoft.com/ko/vs/"><img src="https://static-00.iconduck.com/assets.00/visual-studio-icon-256x255-8uee0dbo.png" width="50" height="50" /></a>
+> <a href="https://python.org"><img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="50" height="50" /></a>  <a href="https://webstore.iec.ch/en/publication/102886"><img src="https://www.omar-ibrahim.com/images/raster/programming-language/clang.png" width="50" height="50" /></a>
+<a href="https://neovim.io"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" width="50" height="50"></a>  <a href="https://vscode.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50" /></a>  <a href="https://visualstudio.microsoft.com/ko/vs/"><img src="https://static-00.iconduck.com/assets.00/visual-studio-icon-256x255-8uee0dbo.png" width="50" height="50" /></a>
 
 <h1></h1>
 
