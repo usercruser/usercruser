@@ -25,6 +25,7 @@
 - 🌐❯ㆍ[my portal](https://ishowfeed.neocities.org)
 - <a href="https://teamspeak.com"><img src="https://github.com/user-attachments/assets/2f35efcb-02a8-4ea4-b789-9c9d5098a4db" width="19" height="19" /></a>❯ㆍteamspeak : Mojave7815
 - 💬❯ㆍirc : applepear on [irc.libera.chat:6697](https://web.libera.chat/gamja)
+- 💬❯ㆍdiscord : sex_king
 
 <h1></h1>
 
