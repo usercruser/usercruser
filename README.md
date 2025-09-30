@@ -31,5 +31,5 @@
 
 ### 『👨‍💻』❯ㆍᴡʜᴀᴛ ɪ ᴅɪᴅ
 - 🔓❯ㆍDirect discovery of vulnerabilities in "Digital 벗(Friend)," an educational tablet supported by the Seoul Metropolitan Office of Education. (Complete Jailbreak with iPad MDM Profile Bypass) October 24(KST), 2023
-- 🎮❯ㆍ[cs2 2000h](https://steamcommunity.com/id/p0pl99)
-- 🍚❯ㆍ[my archlinux rice](https://gall.dcinside.com/m/github/77657)
+- 🎮❯ㆍ[cs2 2100h](https://steamcommunity.com/id/yakkuk)
+- 🍚❯ㆍ[my archlinux rice](https://gall.dcinside.com/mgallery/board/view/?id=softwaredev&no=352&page=1)
