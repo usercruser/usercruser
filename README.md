@@ -9,7 +9,7 @@
 - 👦❯ㆍhe/him
 - 🎂❯ㆍ02/11 (date_string, '%m/%d')
 - 🌞❯ㆍi hate the sun so fuckin much
-- 🖥️❯ㆍLinux 6.12.33-1-lts (arch linux) | KDE Plasma 6(QT6), Wayland | DDR4(PC4) 8GBx4 31.21 GiB RAM | AMD Ryzen 7 5700X (16) @ 4.66 GHz CPU | NVIDIA GeForce RTX 3060 26.21 GiB GPU
+- 🖥️❯ㆍLinux 6.12.53-1-lts (arch linux) | KDE Plasma 6(QT6), Wayland | DDR4(PC4) 8GBx4 31.21 GiB RAM | AMD Ryzen 7 5700X (16) @ 4.66 GHz CPU | NVIDIA GeForce RTX 3060 26.21 GiB GPU
 
 <h1></h1>
 
